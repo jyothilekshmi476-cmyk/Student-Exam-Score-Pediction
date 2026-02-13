@@ -18,7 +18,7 @@ Performance indicators
 Target Variable:
 Exam Score / Performance Indicator
 
-🎯 Problem Statement
+🎯 Problem Statement.
 To analyze student academic data and identify the factors that affect exam performance.
 The project aims to understand patterns in student scores and support better academic planning through data-driven insights.
 
